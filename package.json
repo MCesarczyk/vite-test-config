@@ -9,7 +9,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "coverage": "pnpm test -- --coverage --watchAll --collectCoverageFrom='src/**/*.{ts,tsx}'"
   },
   "dependencies": {
     "react": "^18.3.1",

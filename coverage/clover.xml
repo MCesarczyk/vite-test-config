@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1731614233366" clover="3.2.0">
+  <project timestamp="1731614233366" name="All files">
+    <metrics statements="17" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1" elements="21" coveredelements="4" complexity="0" loc="17" ncloc="17" packages="1" files="4" classes="4"/>
+    <file name="App.tsx" path="/home/mcesarcz/TERRAEYE/FRONTEND/vite-test-config/src/App.tsx">
+      <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="37" count="0" type="stmt"/>
+    </file>
+    <file name="Users.tsx" path="/home/mcesarcz/TERRAEYE/FRONTEND/vite-test-config/src/Users.tsx">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+    </file>
+    <file name="main.tsx" path="/home/mcesarcz/TERRAEYE/FRONTEND/vite-test-config/src/main.tsx">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+    </file>
+    <file name="vite-env.d.ts" path="/home/mcesarcz/TERRAEYE/FRONTEND/vite-test-config/src/vite-env.d.ts">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+  </project>
+</coverage>
